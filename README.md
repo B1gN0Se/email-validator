@@ -28,13 +28,13 @@ python3 email-validator.py
 
 Example
 -------
-$ python3 email-validator.py
-Enter email address: test@example.com
+$ python3 email-validator.py  
+Enter email address: test@example.com  
 RFC822 valid: YES
 
-$ python3 email-validator.py
-Enter email address: "><script>alert(1)</script>@test.com
-RFC822 valid: NO
+$ python3 email-validator.py  
+Enter email address: "><script>alert(1)</script>@test.com  
+RFC822 valid: NO  
 
 Security Testing
 ----------------
